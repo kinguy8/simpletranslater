@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.wrapper{
+  padding-top: 10rem;
+}
+
+#textarea1{
+  height: 10rem;
+}
+
+#disabled{
+  height: 10rem;
+}
+
+.jumbotron{
+  background-color: whitesmoke !important;
+  border-radius: 2rem;
+}
+
