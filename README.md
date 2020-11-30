@@ -1,15 +1,21 @@
-# Translater APP (unfinished) 
+# Simple translater app (Unfinished)
 
-This project was bootstrapped with [Create React App] (https://github.com/facebook/create-react-app).
+Web application for translation from English to Russian and vice versa
 
-## Available Scripts
+### Requirements
+This API is tested with Python Python 3.6-3.9 and Pypy 3. There are two ways to install the library:
 
-In the project directory, you can run:
+Installation using pip (a Python package manager):
+`$ pip install Flask`
+`$ pip install flask_aqlalchemy`
+`$ pip install flask_marshmallow`
 
-### `yarn start`
+### Installation from source (requires git):
++ $ git clone https://github.com/kinguy8/simpletranslater.git
++ $ cd simpletranslater
++ $ cd src and 
++ $ python app.py - run flaskserver
++ $ cd .
++ $ yarn start 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
